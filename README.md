@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobng24
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java and Python
+- 🌱 I’m currently learning front end and java/python (through TOP)
 - 💞️ I’m looking to collaborate on any sort of project
 - 📫 How to reach me: comments
 
